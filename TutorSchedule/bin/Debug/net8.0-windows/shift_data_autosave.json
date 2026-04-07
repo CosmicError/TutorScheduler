@@ -1,0 +1,16 @@
+{
+  "Employees": [
+    {
+      "Name": "bob",
+      "Availabilities": {},
+      "Labs": {},
+      "LabHours": {},
+      "IsNew": true,
+      "Preference": "day",
+      "SetShifts": {},
+      "MaxHours": 20,
+      "Distance": "average",
+      "Grading": {}
+    }
+  ]
+}
